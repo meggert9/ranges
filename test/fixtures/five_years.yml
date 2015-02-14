@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2015-02-14 02:18:45
+  open: 9.99
+  pitopen: 9.99
+  high: 9.99
+  low: 9.99
+  close: 9.99
+
+two:
+  date: 2015-02-14 02:18:45
+  open: 9.99
+  pitopen: 9.99
+  high: 9.99
+  low: 9.99
+  close: 9.99
